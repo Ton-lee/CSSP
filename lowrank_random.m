@@ -1,3 +1,4 @@
+% function of low-rank random matrix generation.
 function H_random = lowrank_random(m,n,r)
 % a random m *n matrix whose rank is r
 A = randn(m,m) ;
