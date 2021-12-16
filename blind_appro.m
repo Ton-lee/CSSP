@@ -1,3 +1,4 @@
+% select subset of columns by random selecting
 function [idx_A,Ps] = random_appro(A,k)
 % to realize the CSSP by random choosing method
 % input: primal matrix A, maximum column k
