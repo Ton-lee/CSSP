@@ -1,3 +1,4 @@
+% randomized algorithm
 function [idx_A,Ps] = randomized_appro(A,k)
 % to realize the CSSP by randomized method, according to:
 % [5] SUBSET SELECTION ALGORITHMS RANDOMIZED VS. DETERMINISTIC (Algrithm 1,2,3)
