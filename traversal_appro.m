@@ -1,3 +1,4 @@
+% traversal algorithm
 function [idx_A,Ps] = traversal_appro(A,k)
 % to realize the CSSP by traversal method
 % input: primal matrix A, maximum column k
