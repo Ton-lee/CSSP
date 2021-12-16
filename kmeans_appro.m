@@ -1,3 +1,4 @@
+% clustering-based algorithm. Assign choice to 1 for directly clustering and 2 for kmeans-based dropout.
 function [idx_A,Ps] = kmeans_appro(A,k,choice)
 % to realize the CSSP by kmeans method
 % input: primal matrix A, maximum column k, choice
