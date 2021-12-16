@@ -1,4 +1,4 @@
-% test time and error performance under different k (with n fixed)
+% test time and error performance under different k (with fixed n)
 clear all; warning off;
 methods = {'blind', 'kmeans1', 'kmeans2', 'greedy1', 'greedy2', 'randomized', 'QR', 'svd', 'traversal'};
 % methods = {'blind', 'kmeans1', 'kmeans2', 'greedy1', 'greedy2', 'randomized', 'QR', 'svd'};
