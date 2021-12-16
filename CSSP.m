@@ -1,3 +1,5 @@
+% main program that conduct column subset selecting on a given matrix
+
 m = 150;
 n = 20;
 k = 10;
