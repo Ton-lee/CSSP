@@ -1,3 +1,4 @@
+% approach of QR-decomposition-based deterministic algorithm
 function [varargout] = QR_appro(A,k)
 % to realize the CSSP by QR method (deterministic), according to:
 % [5] SUBSET SELECTION ALGORITHMS RANDOMIZED VS. DETERMINISTIC (Algrithm 1)  
