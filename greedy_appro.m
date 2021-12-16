@@ -1,3 +1,4 @@
+% greedy-based algorithm, assign mode to 1 for pickup-based and 2 for dropout-based
 function [idx_A,A_appro] = greedy_appro(A,k,mode) 
 % mode 1 : greedily add
 % mode 2 : greedily cut
